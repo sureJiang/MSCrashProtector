@@ -1,0 +1,1 @@
+../../../MSCrashProtector/MSCrashProtector/NSString+MSSafe.h
